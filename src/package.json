@@ -1,0 +1,24 @@
+{
+  "name": "ir-saboohi",
+  "version": "1.0.0",
+  "description": "KIAU IR Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node %NODE_DEBUG_OPTION% index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Js",
+    "IR"
+  ],
+  "author": {
+    "name": "Amin Taghikhani",
+    "email": "amin76taghikhani@gmail.com",
+    "url": "http://mynameisamin.ir"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "process": "^0.11.10"
+  }
+}
