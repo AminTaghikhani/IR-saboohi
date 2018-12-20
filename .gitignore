@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# no need IDE config directory
+.idea/*
+
+# no need package-lock.json
+package-lock.json
